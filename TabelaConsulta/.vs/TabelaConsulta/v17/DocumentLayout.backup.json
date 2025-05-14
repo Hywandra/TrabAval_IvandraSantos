@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|c:\\users\\rplri\\documents\\_cinel\\_uf3935 - programa\u00E7\u00E3o em c sharp\\trabaval_ivandrasantos\\tabelaconsulta\\turma_csharp\\frm_entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|c:\\users\\rplri\\documents\\_cinel\\_uf3935 - programa\u00E7\u00E3o em c sharp\\trabaval_ivandrasantos\\tabelaconsulta\\turma_csharp\\frm_notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|c:\\users\\rplri\\documents\\_cinel\\_uf3935 - programa\u00E7\u00E3o em c sharp\\trabaval_ivandrasantos\\tabelaconsulta\\turma_csharp\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|c:\\users\\rplri\\documents\\_cinel\\_uf3935 - programa\u00E7\u00E3o em c sharp\\trabaval_ivandrasantos\\tabelaconsulta\\turma_csharp\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|c:\\users\\rplri\\documents\\_cinel\\_uf3935 - programa\u00E7\u00E3o em c sharp\\trabaval_ivandrasantos\\tabelaconsulta\\turma_csharp\\frm_listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|c:\\users\\rplri\\documents\\_cinel\\_uf3935 - programa\u00E7\u00E3o em c sharp\\trabaval_ivandrasantos\\tabelaconsulta\\turma_csharp\\frm_editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|c:\\users\\rplri\\documents\\_cinel\\_uf3935 - programa\u00E7\u00E3o em c sharp\\trabaval_ivandrasantos\\tabelaconsulta\\turma_csharp\\frm_pesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_pesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|c:\\users\\rplri\\documents\\_cinel\\_uf3935 - programa\u00E7\u00E3o em c sharp\\trabaval_ivandrasantos\\tabelaconsulta\\turma_csharp\\frm_adicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_adicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\turma_csharp\\frm_entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\turma_csharp\\frm_adicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_adicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\turma_csharp\\frm_pesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_pesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\turma_csharp\\frm_editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\turma_csharp\\frm_listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\turma_csharp\\frm_notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E584A525-9354-43EB-B2A8-A75C9035DA89}|Turma_CSharp\\Turma_CSharp.csproj|solutionrelative:turma_csharp\\frm_notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 325,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\DBConnect.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\DBConnect.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\DBConnect.cs",
+              "RelativeToolTip": "Turma_CSharp\\DBConnect.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAAABAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:19:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alunos.cs",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\Alunos.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\Alunos.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\Alunos.cs",
+              "RelativeToolTip": "Turma_CSharp\\Alunos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:06:31.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_Notas.cs",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Notas.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Notas.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Notas.cs",
+              "RelativeToolTip": "Turma_CSharp\\frm_Notas.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:48:20.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_Listagem.cs",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Listagem.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Listagem.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Listagem.cs",
+              "RelativeToolTip": "Turma_CSharp\\frm_Listagem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:46:15.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_Editar.cs",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Editar.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Editar.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Editar.cs",
+              "RelativeToolTip": "Turma_CSharp\\frm_Editar.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwGAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:22:13.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_Pesquisar.cs",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Pesquisar.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Pesquisar.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Pesquisar.cs",
+              "RelativeToolTip": "Turma_CSharp\\frm_Pesquisar.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwHUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:02:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_Adicionar.cs",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Adicionar.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Adicionar.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Adicionar.cs",
+              "RelativeToolTip": "Turma_CSharp\\frm_Adicionar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:02:27.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Entrada.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Entrada.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Entrada.cs",
+              "RelativeToolTip": "Turma_CSharp\\frm_Entrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:01:39.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_Notas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Notas.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Notas.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Notas.cs [Design]",
+              "RelativeToolTip": "Turma_CSharp\\frm_Notas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:56:55.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frm_Listagem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Listagem.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Listagem.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Listagem.cs [Design]",
+              "RelativeToolTip": "Turma_CSharp\\frm_Listagem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:42:19.969Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frm_Editar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Editar.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Editar.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Editar.cs [Design]",
+              "RelativeToolTip": "Turma_CSharp\\frm_Editar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:15:16.492Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_Pesquisar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Pesquisar.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Pesquisar.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Pesquisar.cs [Design]",
+              "RelativeToolTip": "Turma_CSharp\\frm_Pesquisar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:34:53.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_Adicionar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Adicionar.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Adicionar.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Adicionar.cs [Design]",
+              "RelativeToolTip": "Turma_CSharp\\frm_Adicionar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:44:52.141Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_Entrada.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Entrada.cs",
+              "RelativeDocumentMoniker": "Turma_CSharp\\frm_Entrada.cs",
+              "ToolTip": "C:\\Users\\rplri\\Documents\\_Cinel\\_UF3935 - Programa\u00E7\u00E3o em C Sharp\\TrabAval_IvandraSantos\\TabelaConsulta\\Turma_CSharp\\frm_Entrada.cs [Design]",
+              "RelativeToolTip": "Turma_CSharp\\frm_Entrada.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:36:47.541Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
